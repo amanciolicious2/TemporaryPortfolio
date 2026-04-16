@@ -481,13 +481,13 @@ html, body {
        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
        border-radius: 50%;
    }
-   /* Portfolio */
+   /* Projects */
    
-   #portfolio {
+   #projects {
        padding-bottom: 70px;
    }
    
-   #portfolio .portfolio-box {
+   #projects .projects-box {
        flex-wrap: wrap;
        justify-content: center;
        max-width: 1140px;
@@ -497,7 +497,7 @@ html, body {
        padding: 4rem 0;
    }
    
-   #portfolio .portfolio-box .box-details {
+   #projects .projects-box .box-details {
        width: 250px;
        position: relative;
        height: 150px;
@@ -508,7 +508,7 @@ html, body {
        box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
    }
    
-   #portfolio .portfolio-box .box-details p {
+   #projects .projects-box .box-details p {
        padding: 5px 0;
    }
    /* Contact */
