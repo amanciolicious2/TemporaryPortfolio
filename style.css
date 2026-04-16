@@ -472,8 +472,6 @@ html, body {
    #skills .skills-box img {
        height: 55px;
        width: 110px;
-       margin: 0 10px;
-     
    }
    
    #skills .skills-box img:hover {
